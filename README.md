@@ -1,3 +1,3 @@
-## dio_refinando_db_ecommerce
+## Criação e alteração de Tabelas com SQL
 
 #Projeto parte do Bootcamp Database
